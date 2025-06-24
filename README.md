@@ -1,2 +1,6 @@
 # Comms-Reliability
-UML sequence diagrams &amp; PFMEA analysis for multiple SCM / VGI use-cases via open and proprietary communication interfaces
+
+This repository is a pointer to the [original Communications reliability analysis repository](https://github.com/NREL/ChargeX-VGI3) maintained by National Renewable Energy Laboratory.
+
+Please visit the original repo for source code, issues, and contributions.
+
